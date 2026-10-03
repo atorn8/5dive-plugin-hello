@@ -1,0 +1,14 @@
+{
+  "name": "5dive-plugin-hello",
+  "description": "Example 5dive plugin: prints a greeting.",
+  "owner": {
+    "name": "5dive team"
+  },
+  "plugins": [
+    {
+      "name": "hello",
+      "description": "Print a greeting.",
+      "source": "./hello"
+    }
+  ]
+}
