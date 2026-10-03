@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Print a greeting.",
+  "author": {
+    "name": "5dive team"
+  },
+  "license": "MIT",
+  "fivedive": {
+    "contract": "1",
+    "capabilities": [
+      "skill"
+    ],
+    "grants": [],
+    "trust": {
+      "publisher": "5dive team"
+    }
+  }
+}
